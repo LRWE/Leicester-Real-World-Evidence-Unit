@@ -1,4 +1,4 @@
-# Leicester-Real-World-Evidence-Unit
+# Leicester-Real-World-Evidence-Unit (LRWE Unit)
 
 We are the Leicester Real World Evidence (LRWE) Unit.
 
